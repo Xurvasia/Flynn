@@ -1,0 +1,13 @@
+{
+    "token": "OTYwNzE4NjE0NjY5OTU5MjE4.Ykug7w.Nh1BZ7Rom_5OcZkG-cTLUWPxXDs",
+    "dPrefix": "]",
+    "msgColors": {
+        "error": "#f54242",
+        "warn": "#f5d442",
+        "success": "#63f542",
+        "info": "#42e3f5"
+    },
+    "host": "localhost",
+    "port": "28015",
+    "db": "flynn"
+}
